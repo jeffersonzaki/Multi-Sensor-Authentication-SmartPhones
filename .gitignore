@@ -1,0 +1,5 @@
+# Removing DS_Store
+*.DS_Store
+
+# Removing checkpoints
+*.ipynb_checkpoints
